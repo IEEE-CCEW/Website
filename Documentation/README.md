@@ -1,7 +1,9 @@
 # Documentation 
 
-## Tech Documentation
+### Tech Documentation
 
-## Contributing Documentation
+### Contributing Documentation
 
-## Running the Project Documentation
+### Running the Project Documentation
+
+### Design Documentation

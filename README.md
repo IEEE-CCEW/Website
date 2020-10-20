@@ -2,6 +2,9 @@
 The open source website of IEEE CCEW
 
 - This is the repository that contains the files and code for the IEEE website.
+### Important Links:
+- [Documentation](https://github.com/IEEE-CCEW/Website/Documentation)
+- [Design](https://github.com/IEEE-CCEW/Website/Design)
 
 - It is maintained by the following people
   - RItvi

@@ -1,5 +1,6 @@
 # Website
-The open source website of IEEE CCEW
+The open source website of IEEE CCEW. 
+You can join our Project discussions [here](https://ieeeccew.zulipchat.com/)
 
 - This is the repository that contains the files and code for the IEEE website.
 ### Important Links:
